@@ -5,8 +5,7 @@ author:       "pakuam"
 header-style: text
 catalog:      true
 tags:
-    - Web
-    - JavaScript
+    - 柚子社
 ---
 
 > 
