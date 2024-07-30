@@ -1,5 +1,5 @@
 # Site settings
-title: Galgame资源分享地区
+title: KUPA GAME资源站
 SEOTitle: KUPA GALS资源站
 header-img: img/home-bg.jpg
 email: w7zdfofficial@outlook.com
@@ -13,10 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: pakuam
-zhihu_username: pakuam
-github_username: pakuam
-twitter_username: pakuam
+
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
