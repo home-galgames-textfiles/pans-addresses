@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      "星之梦"
+subtitle:   "Key社视觉小说（汉化）"
+date:       2024-07-31 07：00：00
+author:     "pakuam"
+catalog: true
+published: true
+header-style: text
+tags:
+  - key社
+---
+
+> 下载：https://sjmwsw.com/eJecR
